@@ -6,7 +6,7 @@
             "error": "No resuelto",
             "free": "Respuesta libre",
             "completed": "Se completó la hoja automáticamente",
-            "none": "pero hay <number> casillero(s) sin respuesta.",
+            "none": "pero hay <number> casilleros sin respuesta.",
             "time": "Aún no se cargaron las respuestas. Espera 2 segundos y vuelve a intentarlo."
         },
         {
@@ -15,7 +15,7 @@
             "error": "Unsolved",
             "free": "Free response",
             "completed": "The sheet was completed automatically",
-            "none": "but there are <number> unanswered box(es).",
+            "none": "but there are <number> unanswered boxes.",
             "time": "Answers haven't been loaded yet. She waits 2 seconds and tries again."
         },
         {
@@ -51,7 +51,7 @@
             "error": "não resolvido",
             "free": "Resposta livre",
             "completed": "A planilha foi preenchida automaticamente",
-            "none": "mas há <number> caixa(s) sem resposta.",
+            "none": "mas há <number> caixas sem resposta.",
             "time": "As respostas ainda não foram carregadas. "
         },
         {
@@ -69,7 +69,7 @@
             "error": "Non résolu",
             "free": "Réponse libre",
             "completed": "La fiche a été complétée automatiquement",
-            "none": "mais il y a <number> case(s) sans réponse.",
+            "none": "mais il y a <number> cases sans réponse.",
             "time": "Les réponses n'ont pas encore été chargées. "
         }
     ]
