@@ -1,0 +1,66 @@
+{
+    "es": {
+        "success": "Resuelto",
+        "error": "No resuelto",
+        "free": "Respuesta libre",
+        "completed": "Se completó la hoja automáticamente",
+        "none": "pero hay <number> casillero(s) sin respuesta.",
+        "time": "Aún no se cargaron las respuestas. Espera 2 segundos y vuelve a intentarlo."
+    },
+    "en": {
+        "success": "Resolved",
+        "error": "Unsolved",
+        "free": "Free response",
+        "completed": "The sheet was completed automatically",
+        "none": "but there are <number> unanswered box(es).",
+        "time": "Answers haven't been loaded yet. She waits 2 seconds and tries again."
+    },
+    "ru": {
+        "success": "Решено",
+        "error": "Нерешенный",
+        "free": "Бесплатный ответ",
+        "completed": "Лист был заполнен автоматически",
+        "none": "но есть <number> неотвеченных ящиков",
+        "time": "Ответы еще не загружены. Подождите 2 секунды и повторите попытку."
+    },
+    "it": {
+        "success": "Risolto",
+        "error": "Irrisolto",
+        "free": "Risposta gratuita",
+        "completed": "Il foglio è stato completato automaticamente",
+        "none": "ma ci sono <number> caselle senza risposta.",
+        "time": "Le risposte non sono state ancora caricate. "
+    },
+    "ja": {
+        "success": "解決済み",
+        "error": "未解決",
+        "free": "自由回答",
+        "completed": "シートは自動的に完成しました",
+        "none": "しかし、あります <number> 未回答のボックス。",
+        "time": "回答はまだ読み込まれていません。"
+    },
+    "pt": {
+        "success": "Resolvido",
+        "error": "não resolvido",
+        "free": "Resposta livre",
+        "completed": "A planilha foi preenchida automaticamente",
+        "none": "mas há <number> caixa(s) sem resposta.",
+        "time": "As respostas ainda não foram carregadas. "
+    },
+    "zh": {
+        "success": "解决",
+        "error": "未解决",
+        "free": "免费回复",
+        "completed": "工作表自动完成",
+        "none": "但这有 <number> 未回答的框。",
+        "time": "尚未加载答案。"
+    },
+    "fr": {
+        "success": "Résolu",
+        "error": "Non résolu",
+        "free": "Réponse libre",
+        "completed": "La fiche a été complétée automatiquement",
+        "none": "mais il y a <number> case(s) sans réponse.",
+        "time": "Les réponses n'ont pas encore été chargées. "
+    }
+}
