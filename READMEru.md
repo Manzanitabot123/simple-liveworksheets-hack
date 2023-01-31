@@ -14,8 +14,8 @@ fetch("https://raw.githubusercontent.com/Manzanitabot123/simple-liveworksheets-h
 .then(a=>a.text().then(b=>eval(b)))
 ```
 
-<p выровнять="по центру">
-      <img width="400px" src="https://user-images.githubusercontent.com/18729296/141743755-2be73297-250e-4cd1-ac93-8978c5a39d10.png"/>
+<p align="center">
+      <img width="400px" src="resources/example.gif""/>
 </p>
 
 ## 🚧 Основные функции
