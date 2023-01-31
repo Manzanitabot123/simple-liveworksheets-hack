@@ -1,6 +1,6 @@
-Прочтите это на других языках: [Español](READMEes.md), [English](README.md)
+Прочтите это на других языках: [Español](./languages/READMEes.md), [English](./languages/README.md)
 
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" src="resources/icon.gif"> 
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" src="../resources/icon.gif"> 
 
 # Простой взлом Liveworksheets
 
@@ -15,7 +15,7 @@ fetch("https://raw.githubusercontent.com/Manzanitabot123/simple-liveworksheets-h
 ```
 
 <p align="center">
-      <img width="400px" src="resources/example.gif""/>
+      <img src="../resources/example.gif""/>
 </p>
 
 ## 🚧 Основные функции
@@ -34,7 +34,7 @@ fetch("https://raw.githubusercontent.com/Manzanitabot123/simple-liveworksheets-h
 
 ## ✍️ Вклад
 
-😂 Вы можете внести свой вклад в этот репозиторий с помощью [**language files**](./languages) или [**script**](./resources/hack.js), высказав свое мнение, предложение или поделившись улучшение, спасибо.
+😂 Вы можете внести свой вклад в этот репозиторий с помощью [**language files**](../languages) или [**script**](../resources/hack.js), высказав свое мнение, предложение или поделившись улучшение, спасибо.
 
 - ▀█▀ █░█ ▄▀█ █▄░█ █▄▀   █▄█ █▀█ █░█
 - ░█░ █▀█ █▀█ █░▀█ █░█   ░█░ █▄█ █▄█

@@ -1,6 +1,6 @@
-Lea esto en otros idiomas: [English](README.md), [русский](READMEru.md)
+Lea esto en otros idiomas: [English](./languages/README.md), [русский](./languages/READMEru.md)
 
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" src="resources/icon.gif"> 
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" src="../resources/icon.gif"> 
 
 # Simple Liveworksheets hack
 
@@ -15,7 +15,7 @@ fetch("https://raw.githubusercontent.com/Manzanitabot123/simple-liveworksheets-h
 ```
 
 <p align="center">
-    <img width="400px" src="resources/example.gif"/>
+    <img src="../resources/example.gif"/>
 </p>
 
 ## 🚧 Principales funciones
@@ -34,7 +34,7 @@ Entre las cosas que puede hacer **automáticamente** son:
 
 ## ✍️ Contribución
 
-😂 Usted puede contribuir con este repositorio con los [**archivos de idiomas**](./languages) o el [**script**](./resources/hack.js), ya sea dando una opinión, sugerencia u aportando una mejora, gracias. 
+😂 Usted puede contribuir con este repositorio con los [**archivos de idiomas**](../languages) o el [**script**](../resources/hack.js), ya sea dando una opinión, sugerencia u aportando una mejora, gracias. 
 
 - ▀█▀ █░█ ▄▀█ █▄░█ █▄▀   █▄█ █▀█ █░█
 - ░█░ █▀█ █▀█ █░▀█ █░█   ░█░ █▄█ █▄█

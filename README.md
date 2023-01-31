@@ -1,4 +1,4 @@
-Read this in other languages: [Español](READMEes.md), [русский](READMEru.md),
+Read this in other languages: [Español](./languages/READMEes.md), [русский](./languages/READMEru.md),
 
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" src="resources/icon.gif">
 
@@ -15,7 +15,7 @@ fetch("https://raw.githubusercontent.com/Manzanitabot123/simple-liveworksheets-h
 ```
 
 <p align="center">
-     <img width="400px" src="resources/example.gif"/>
+     <img src="resources/example.gif"/>
 </p>
 
 ## 🚧 Main functions
