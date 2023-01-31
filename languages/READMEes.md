@@ -1,4 +1,4 @@
-Lea esto en otros idiomas: [English](./languages/README.md), [русский](./languages/READMEru.md)
+Lea esto en otros idiomas: [English](../README.md), [русский](./READMEru.md)
 
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" src="../resources/icon.gif"> 
 

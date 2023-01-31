@@ -4,7 +4,9 @@ function SimpleLiveworksheetHack(jsonlang) {
     let lg = navigator.language || navigator.userLanguage; 
     let json = jsonlang.messages.filter(d => (lg.includes(d.locale)))[0]
     if(!json) {json = jsonlang.messages.filter(d => (d.locale == 'en'))[0]};
-    if(document.querySelector("#capafinish").ariaChecked) return console.log("%c"+json.success, 'background: #005e06; color: white; font-size: 16px');
+    if(!document.URL.startsWith("https://www.liveworksheets.com")) { return confirm(json.domain)?(window.open("https://www.liveworksheets.com/")):false}
+    if(document.querySelectorAll('#elsvgdefinitivo')[0] == undefined) return alert(json.noSheet);
+    if(document.querySelector("#capafinish").ariaChecked) return alert(json.finished);
     let idArray = Array.from(contenidorellenado);
     if(idArray.length===0) return console.log("%c"+json.time, 'color: yellow; font-size: 12px');
     const CheckAnswers = function(arr, delay) {
@@ -47,6 +49,7 @@ function SimpleLiveworksheetHack(jsonlang) {
             }, delay)
         } else {
             console.log("%c"+json.completed+(nulos>0?" "+json.none.replace('<number>', nulos):""), 'background: #005e06; color: white; font-size: 16px');
+            console.log('%c'+json.dev, 'color: #804949');
             document.querySelector("#capafinish").ariaChecked = true;
         }
     }

@@ -8,7 +8,11 @@
             "free": "Respuesta libre",
             "completed": "Se completó la hoja automáticamente",
             "none": "pero hay <number> casilleros sin respuesta.",
-            "time": "Aún no se cargaron las respuestas. Espera 2 segundos y vuelve a intentarlo."
+            "time": "Aún no se cargaron las respuestas. Espera 2 segundos y vuelve a intentarlo.",
+            "domain": "Solo puedes ejecutar este script en un hoja de Liveworksheets, ¿quieres ser redireccionado a Liveworksheets?",
+            "noSheet": "Solo tu puedes ejecutar este script en una hoja para rellenar",
+            "finished": "La hoja ya está completa",
+            "dev": "Script hecho por Manzanita🍎Bot123"
         },
         {
             "locale": "en",
@@ -17,7 +21,11 @@
             "free": "Free response",
             "completed": "The sheet was completed automatically",
             "none": "but there are <number> unanswered boxes.",
-            "time": "Answers haven't been loaded yet. She waits 2 seconds and tries again."
+            "time": "Answers haven't been loaded yet. She waits 2 seconds and tries again.",
+            "domain": "You can only run this script on a LiveWorksheets sheet, do you want to be redirected to LiveWorksheets?",
+            "noSheet": "Only you can run this script on a sheet to fill",
+            "finished": "The sheet is already complete",
+            "dev": "Script made by Manzanita🍎bot123"
         },
         {
             "locale": "ru",
@@ -26,7 +34,11 @@
             "free": "Бесплатный ответ",
             "completed": "Лист был заполнен автоматически",
             "none": "но есть <number> неотвеченных ящиков",
-            "time": "Ответы еще не загружены. Подождите 2 секунды и повторите попытку."
+            "time": "Ответы еще не загружены. Подождите 2 секунды и повторите попытку.",
+            "domain": "Вы можете выполнить этот скрипт только на листе LiveWorkSheets, вы хотите перенаправить на листы LiveWorks?",
+            "noSheet": "Вы можете запустить этот скрипт на листе, чтобы заполнить",
+            "finished": "Лист уже завершен",
+            "dev": "Сценарий, сделанный Manzanita🍎bot123"
         },
         {
             "locale": "it",
@@ -35,7 +47,11 @@
             "free": "Risposta gratuita",
             "completed": "Il foglio è stato completato automaticamente",
             "none": "ma ci sono <number> caselle senza risposta.",
-            "time": "Le risposte non sono state ancora caricate. "
+            "time": "Le risposte non sono state ancora caricate. ",
+            "domain": "Puoi eseguire questo script solo su un foglio di fogli di lavoro, vuoi essere reindirizzato ai fogli di lavoro live?",
+            "noSheet": "Puoi eseguire questo script solo su un foglio per riempire",
+            "finished": "Il foglio è già completo",
+            "dev": "Script realizzato da Manzanita🍎123"
         },
         {
             "locale": "ja",
@@ -44,7 +60,11 @@
             "free": "自由回答",
             "completed": "シートは自動的に完成しました",
             "none": "しかし、あります <number> 未回答のボックス。",
-            "time": "回答はまだ読み込まれていません。"
+            "time": "回答はまだ読み込まれていません。",
+            "domain": "このスクリプトをLiveWorkseetsシートでのみ実行できますが、LiveWorksheetsにリダイレクトしたいですか？",
+            "noSheet": "このスクリプトをシートでしか埋めることができない",
+            "finished": "シートはすでに完成している",
+            "dev": "Manzanita🍎bot123によって作成されたスクリプト"
         },
         {
             "locale": "pt",
@@ -53,7 +73,11 @@
             "free": "Resposta livre",
             "completed": "A planilha foi preenchida automaticamente",
             "none": "mas há <number> caixas sem resposta.",
-            "time": "As respostas ainda não foram carregadas. "
+            "time": "As respostas ainda não foram carregadas. ",
+            "domain": "Você só pode executar esse script em uma folha de folhas de trabalho, você quer ser redirecionado para as folhas de trabalho?",
+            "noSheet": "Você só pode executar este script em uma folha para preencher",
+            "finished": "A folha já está completa",
+            "dev": "script feito por manzanita🍎bot123"
         },
         {
             "locale": "zh",
@@ -62,7 +86,11 @@
             "free": "免费回复",
             "completed": "工作表自动完成",
             "none": "但这有 <number> 未回答的框。",
-            "time": "尚未加载答案。"
+            "time": "尚未加载答案。",
+            "domain": "您只能在LiveWorksheets表上執行此腳本，您想被重定向到LiveWorksheets嗎？",
+            "noSheet": "您只能在表上運行此腳本以填充",
+            "finished": "表已經完成",
+            "dev": "由manzanita🍎bot123製作的腳本"
         },
         {
             "locale": "fr",
@@ -71,7 +99,11 @@
             "free": "Réponse libre",
             "completed": "La fiche a été complétée automatiquement",
             "none": "mais il y a <number> cases sans réponse.",
-            "time": "Les réponses n'ont pas encore été chargées. "
+            "time": "Les réponses n'ont pas encore été chargées. ",
+            "domain": "Vous ne pouvez exécuter ce script que sur une feuille de réseaux en direct, voulez-vous être redirigé vers des travaux de travail en direct?",
+            "noSheet": "Vous ne pouvez exécuter ce script sur une feuille à remplir",
+            "finished": "La feuille est déjà complète",
+            "dev": "Script réalisé par Manzanita🍎bot123"
         }
     ]
 }
