@@ -25,14 +25,21 @@ Among the things it can do **automatically** are:
 | Functions |
 | ------ |
 | Fill text boxes |
-| Join pictures or texts |
+| Join pictures or texts in an orderly, random and correct way |
 | Drag objects to the correct place |
 | Select the correct answer |
 
 > **Warning**
 > 😢 Unfortunately, the text boxes that have no answer or are free to answer (names or justifications) will be shown empty.
 
+## 🔗 Alternatives
+- [**liveworksheets-answer** | fotoyoue](https://github.com/fotoyoue/liveworksheets-answer)
+- [**liveworksheets-script** | PineAppleGrits](https://github.com/PineAppleGrits/liveworksheets-script)
+
 ## ✍️ Contribution
+
+#### 👥 Contributors
+- [Manzanitabot123](https://github.com/Manzanitabot123)
 
 😂 You can contribute to this repository with the [**language files**](./languages) or the [**script**](./resources/hack.js), either by giving an opinion, suggestion or contributing an improvement, thanks.
 

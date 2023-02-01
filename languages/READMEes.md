@@ -25,16 +25,24 @@ Entre las cosas que puede hacer **automáticamente** son:
 | Funciones |
 | ------ |
 | Rellenar casillas de texto |
-| Unir cuadros o textos |
+| Unir cuadros o textos de manera ordenada, aleatoria y correcta |
 | Arrastrar objetos al sitio correcto |
 | Seleccionar la respuesta correcta | 
 
 > **Warning**
 > 😢 Lamentablemente, las casillas de texto que no tienen respuesta o son de respuesta libre (nombres o justificaciones) se mostraran vacíos.
 
-## ✍️ Contribución
+## 🔗 Alternativas
+- [**liveworksheets-answer** | fotoyoue](https://github.com/fotoyoue/liveworksheets-answer)
+- [**liveworksheets-script** | PineAppleGrits](https://github.com/PineAppleGrits/liveworksheets-script)
+
+## 📝 Contribución
+
+#### 👥 Contribuidores
+- [Manzanitabot123](https://github.com/Manzanitabot123)
 
 😂 Usted puede contribuir con este repositorio con los [**archivos de idiomas**](../languages) o el [**script**](../resources/hack.js), ya sea dando una opinión, sugerencia u aportando una mejora, gracias. 
+
 
 - ▀█▀ █░█ ▄▀█ █▄░█ █▄▀   █▄█ █▀█ █░█
 - ░█░ █▀█ █▀█ █░▀█ █░█   ░█░ █▄█ █▄█
